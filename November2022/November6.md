@@ -1,4 +1,4 @@
-# November 5, 2022 
+# November 6, 2022 
 
 ## DSA Review
 - When looking for unique characters or counting how many characters are within a sentence, hashmaps can be quite useful.
@@ -28,7 +28,7 @@
 - `praseInt()` will parse a string argument and return an integer or NaN
 - `String()` will convert whatever is passed in, into a string.
 - `object.hasOwnProperty(key)` will return a boolean that tells you if whatever is passed through is located within that object (key-value pair)
-    - can also check with `!object['key']` or `!object.key`
+    - can also check with `object['key']` or `object.key`
 
 #### Tomorrow's Goals
 - Do minimum 2 leetcode mediums with strings.
