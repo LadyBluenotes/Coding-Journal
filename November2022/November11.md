@@ -19,6 +19,5 @@
 
 ## What I Learned
 - Worked on Big O notation and reviewing how to determine the time complexity of a function
-
 #### Tomorrow's Goals
-- Leetcode q's
+- Udemy DSA Course
