@@ -14,5 +14,5 @@
 ## What I Learned
 
 #### Tomorrow's Goals
-- - Review leetcode med q's from Nov 18
+- Review leetcode med q's from Nov 18
 - Start next section of DSA course
