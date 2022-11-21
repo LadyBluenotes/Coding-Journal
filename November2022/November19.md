@@ -1,4 +1,4 @@
-# November 16, 2022 
+# November 19, 2022 
 
 ## DSA Review
 - Stacks and queues are linear data structures that are similar

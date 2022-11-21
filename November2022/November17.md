@@ -1,4 +1,4 @@
-# November 16, 2022 
+# November 17, 2022 
 
 ## DSA Review
 - Linked lists are great with insertion, deleting and keeping things ordered.
