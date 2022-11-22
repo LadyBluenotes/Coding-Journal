@@ -24,13 +24,3 @@
         - Downside is that there is no O(1) methods
         - In production would use an AVL or red black tree which re-ballance themselves (most popular)
 
-## Codewars && LeetCode Done
-
-## Easy - Leetcode
-
-## Medium - Leetcode
-
-## What I Learned
-
-#### Tomorrow's Goals
-- 
