@@ -1,0 +1,32 @@
+# November 27, 2022 
+
+## DSA Review
+- Using recursion for fibonacci will create a big O complexity of O(2^n) or exponential time
+    - Using iterative is O(n) (therefore, more efficient)
+- Anything that can be done recursively can be done iteratively 
+    - Recursion can be easier to write
+    - Recursion can keep code dry (do not repeat yourself)
+        - Less loops
+    - Not always the best approach
+- Recursion can create stack overflow OR take up more memory
+- Good to use when you're unsure of how deep a data structure goes
+- When to use recursion:
+    - When working with BFS or DFS, recursion is useful
+    - Recursion can be better with sorting
+    - If you're using a tree or making a tree, use a recursive solution
+    - When you're dividing into a number of sub-problems that are smaller instances of the same problem
+    - Each instance of the problem is identical in nature
+    - The solutions of each sub-problem can be combined to solve the problem at hand
+- 
+
+## Codewars && LeetCode Done
+
+## What I Learned
+- Most languages include tail call optimization which allows for recursions to be called without increases to the call stack
+    - Makes recursion more memory efficient
+- **Divide and conquer using recursion**
+- Recursion is a function that calls itself
+- Use recursion when it makes it more readable but be careful of big O complexity (especially space)
+
+#### Tomorrow's Goals
+- Start sorting algo
